@@ -1,5 +1,6 @@
 .header{
     margin: 2vh 5vw;
+    margin-bottom: 7vh;
     padding: 2vh 0;
     position:sticky;
     position: -webkit-sticky;
@@ -10,6 +11,10 @@
     background-color: #fff;
     border-radius: 14px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  }
+  .icon-logo{
+    display: none;
+    color: #3EADCF;
   }
   .header h3{
     background: linear-gradient( to right,#647DEE 0%, #7F53AC 100%);
@@ -68,4 +73,55 @@
     left: 0;
     color:#3EADCF;
   }
+  @media screen and (max-width: 800px) {
+    .header{
+      background: #fff;
+      padding: 0 5vh;
+      margin-bottom: 3vh;
+      height: 7vh;
+      align-items: center;
+      justify-content:space-around;
+  }
+  .list-links{
+    display: none;
+  }
+  .icon-logo{
+    display: block;
+    position: absolute;
+    left: 5vh;
+  }
+  .header.mobile{
+      position: fixed;
+      background: #fff;
+      background-color: #fff;
+      backdrop-filter: blur(10px);
+      backdrop-filter: brightness(20%);
+      align-items: center;
+      justify-content:flex-start;
+      max-width:50%;
+      margin: 4vw 5vw;
+      padding: 0 5vh;
+      height: fit-content;
+      flex-wrap: wrap;
+      .header h3{
+        font-size: 4vw;
+          text-align: center;
+      }
+      .icon-logo{
+        position: relative;
+        left:inherit;
+        padding-right: 15vw;
+      }
+      .list-links{
+          display: block;
+          margin-left: 0vh;
+          width: inherit;
+          
+      }
+      .list-links li{
+          display: block;
+          text-align: center;
+      }
+  }
+}
   

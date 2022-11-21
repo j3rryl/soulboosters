@@ -1,9 +1,22 @@
 import { NavLink } from "react-router-dom"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBars } from '@fortawesome/free-solid-svg-icons'
+import { useEffect, useState } from "react"
 import '../assets/scss/navbar.scss'
 const Navbar = () => {
+const [mobile,setMobile]=useState(
+  false)
+function toggleMenu(){
+    console.log(mobile)
+    setMobile(!mobile)
+}
+useEffect(()=>{
+    setMobile(mobile)
+},[mobile])
   return (
     <>
-    <header className="header">
+    <header className={`header ${mobile?'mobile':''}`}>
+    <FontAwesomeIcon icon={faBars} className="icon-logo" onClick={toggleMenu}/>
         <h3>Soul Boosters</h3>
     <nav className="navbar-links">
         <ul className="list-links">
