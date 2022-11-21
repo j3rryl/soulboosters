@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/soulboosters/static/css/main.1524bc7d.css",
-    "main.js": "/soulboosters/static/js/main.fb0d9c87.js",
+    "main.css": "/soulboosters/static/css/main.e900309d.css",
+    "main.js": "/soulboosters/static/js/main.aaf33884.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
     "static/media/page1-woman pic.png": "/soulboosters/static/media/page1-woman pic.11bf003f22963daa6b6e.png",
     "static/media/lamupic.jpg": "/soulboosters/static/media/lamupic.8a6c7db3adb7788cb04b.jpg",
@@ -14,12 +14,12 @@
     "static/media/hotter temperatures and rising oceans pic2.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans pic2.a951907ad9ee6afbc82a.jpg",
     "static/media/hotter temperatures and rising oceans.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans.9800182062621a1b4346.jpg",
     "index.html": "/soulboosters/index.html",
-    "main.1524bc7d.css.map": "/soulboosters/static/css/main.1524bc7d.css.map",
-    "main.fb0d9c87.js.map": "/soulboosters/static/js/main.fb0d9c87.js.map",
+    "main.e900309d.css.map": "/soulboosters/static/css/main.e900309d.css.map",
+    "main.aaf33884.js.map": "/soulboosters/static/js/main.aaf33884.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1524bc7d.css",
-    "static/js/main.fb0d9c87.js"
+    "static/css/main.e900309d.css",
+    "static/js/main.aaf33884.js"
   ]
 }
