@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/soulboosters/static/css/main.1524bc7d.css",
+    "main.js": "/soulboosters/static/js/main.fb0d9c87.js",
+    "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
+    "static/media/page1-woman pic.png": "/soulboosters/static/media/page1-woman pic.11bf003f22963daa6b6e.png",
+    "static/media/lamupic.jpg": "/soulboosters/static/media/lamupic.8a6c7db3adb7788cb04b.jpg",
+    "static/media/lamustory.jpg": "/soulboosters/static/media/lamustory.61c834c02960f5600a5e.jpg",
+    "static/media/increased droughts.jpg": "/soulboosters/static/media/increased droughts.62de6ecbfdb5d103a144.jpg",
+    "static/media/poverty and displacement.jpg": "/soulboosters/static/media/poverty and displacement.5a400c7a599e64ef36ee.jpg",
+    "static/media/more healthrisks.jpg": "/soulboosters/static/media/more healthrisks.e9feea0feb739358e3ea.jpg",
+    "static/media/hotter temperatures and rising oceans pic3.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans pic3.4c9b25a1b40ea27b5a86.jpg",
+    "static/media/loss of plants and animals.jpg": "/soulboosters/static/media/loss of plants and animals.ec34f87794ee0cca638b.jpg",
+    "static/media/hotter temperatures and rising oceans pic2.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans pic2.a951907ad9ee6afbc82a.jpg",
+    "static/media/hotter temperatures and rising oceans.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans.9800182062621a1b4346.jpg",
+    "index.html": "/soulboosters/index.html",
+    "main.1524bc7d.css.map": "/soulboosters/static/css/main.1524bc7d.css.map",
+    "main.fb0d9c87.js.map": "/soulboosters/static/js/main.fb0d9c87.js.map",
+    "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1524bc7d.css",
+    "static/js/main.fb0d9c87.js"
+  ]
+}
