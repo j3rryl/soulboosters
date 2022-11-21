@@ -1,4 +1,27 @@
 .home{
     width: 100%;
     height: 100%;
+    .home-slider{
+        margin: auto;
+        margin-top: 7vh;
+        width: 90vw;
+        height: 60vh;
+        background-color: #fff;
+        border-radius: 14px;
+        box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        .content{
+        font-family: 'Caveat', cursive;
+        font-size: 1.4rem;
+        width: 40vw;
+        height: 40vh;
+        }
+        .slider{
+        width: 35vw;
+        height: 40vh;
+
+        }
+    }
 }

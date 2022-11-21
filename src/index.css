@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&display=swap');
 body {
+  margin: 0;
   width: 100vw;
   height: 100vh;
   overflow-x: hidden;
-  background-color: 	#EEEEEE;
+  background-color:#EEEEEE;
+  /* font-family: 'Caveat', cursive;
+  font-size: 1.3rem; */
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }

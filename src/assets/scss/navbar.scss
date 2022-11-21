@@ -1,5 +1,5 @@
 .header{
-    margin: 0 5vw;
+    margin: 2vh 5vw;
     padding: 2vh 0;
     position:sticky;
     position: -webkit-sticky;
@@ -10,10 +10,11 @@
     background-color: #fff;
     border-radius: 14px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
-
   }
   .header h3{
-    color:#3EADCF;
+    background: linear-gradient( to right,#647DEE 0%, #7F53AC 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-weight: bolder;
   }
   
@@ -32,7 +33,9 @@
     transition: all 1s ease 0s;
   }
   .list-links li a.active{
-    color: #3EADCF;
+    background: linear-gradient(#647DEE, #2A2A72);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   .list-links li a:hover{
     color: #3EADCF;
@@ -44,7 +47,7 @@
     right: 100%;
     width: 50%;
     height: 2px;
-    background: #3EADCF;
+    background: linear-gradient(#009FFD, #2A2A72);
     transition: .5s cubic-bezier(0.075,0.82,0.165,1);
   }
   .list-links li a:after{
@@ -54,7 +57,7 @@
     left: 100%;
     width: 75%;
     height: 2px;
-    background: #3EADCF;
+    background: linear-gradient(#009FFD, #2A2A72);
     transition: .5s cubic-bezier(0.075,0.82,0.165,1);
   }
   .list-links li a:hover:before{
