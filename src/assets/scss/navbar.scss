@@ -1,0 +1,149 @@
+.navbar-header{
+    margin: 0;
+    // padding-right: 10vh;
+    // I don't remmeber what this does.
+    position:sticky;
+    position: -webkit-sticky;
+    z-index: 10; 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .spacer{
+    display: none;
+  }
+  .navbar-header h5{
+    color:wheat;
+  }
+  .icon-logo{
+    display: none;
+    color: wheat;
+  }
+  
+  .list-links li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 25px ;
+  }
+  .list-links li a{
+    color:white;
+    text-decoration: none;
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    padding: 10px 0;
+    transition: all 1s ease 0s;
+  }
+  .list-links li a.active{
+    color: wheat;
+  }
+  .list-links li a:hover{
+    color: wheat;
+  }
+  .list-links li a:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 100%;
+    width: 50%;
+    height: 2px;
+    background: wheat;
+    transition: .5s cubic-bezier(0.075,0.82,0.165,1);
+  }
+  .list-links li a:after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 100%;
+    width: 75%;
+    height: 2px;
+    background: wheat;
+    transition: .5s cubic-bezier(0.075,0.82,0.165,1);
+  }
+  .list-links li a:hover:before{
+    right: 0;
+    color:wheat;
+  }
+  .list-links li a:hover:after{
+    left: 0;
+    color:wheat;
+  }
+  .contact-btn{
+    background-color:wheat;
+    border: none;
+    border-radius: 14px;
+    width: 80px;
+    height:40px;
+  }
+  .contact-btn:hover{
+    background-color:white;
+    cursor:pointer;
+  }
+  @media screen and (max-width: 800px) {
+      .navbar-header{
+        position: fixed;
+        background: black;
+        background-color: transparent;
+        backdrop-filter: blur(10px);
+        backdrop-filter: brightness(20%);
+        width: 100%;
+        padding: 0 5vh;
+        height: 6vh;
+        // align-items: center;
+        // justify-content:flex-start;
+        // max-width:100%;
+        // margin: 0 10px;
+        // padding: 0 0 0 30px;
+        // flex-wrap: wrap;
+    }
+    .spacer{
+      display: block;
+      width: 100%;
+      height: 6vh;
+      }
+    .list-links{
+      display: none;
+    }
+    .icon-logo{
+      display: block;
+      position: absolute;
+      left: 5vh;
+      
+    }
+    .navbar-header.mobile{
+        backdrop-filter: blur(10px);
+        backdrop-filter: brightness(20%);
+        align-items: center;
+        justify-content:flex-start;
+        max-width:50%;
+        margin: 0 10px;
+        padding: 0 0 0 30px;
+        height: fit-content;
+        flex-wrap: wrap;
+        .navbar-header h5{
+          font-size: 4vw;
+            text-align: center;
+        }
+        .icon-logo{
+          position: relative;
+          left:inherit;
+          padding-right: 15vw;
+        }
+        .list-links{
+            display: block;
+            margin-left: 0vh;
+            width: inherit;
+            
+        }
+        .list-links li{
+            display: block;
+            text-align: center;
+        }
+        .contact-btn{
+            width: max-content;
+            height:50px;
+            font-weight: 500;
+            margin: 20px 0;
+        }
+    }
+  }
