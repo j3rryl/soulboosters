@@ -15,6 +15,12 @@ const Home = () => {
       <div className='slider'>
         <Slider/>
       </div>
+      <div className='content-hidden'>
+        <ul>
+          <li>Inspiring stories of rural women adapting to climate change impacts.</li>
+          <li>A platform for these stories to be heard.</li>
+        </ul>
+      </div>
     </div>
   </div>
   )

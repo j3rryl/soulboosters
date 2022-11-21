@@ -17,6 +17,13 @@
         width: 40vw;
         height: 40vh;
         }
+        .content-hidden{
+        font-family: 'Caveat', cursive;
+        font-size: 1.4rem;
+        width: 40vw;
+        height: 40vh;
+        display: none;
+        }
         .slider{
         width: 35vw;
         height: 40vh;
@@ -25,16 +32,24 @@
     }
 }
 @media screen and (max-width: 800px) {
-    .home-slider{
-        display:inline-block;
-        height: fit-content;
-        .content{
-            width: 100%;
+    .home{
+        .home-slider{
+            display:block;
             height: fit-content;
-        }
-        .slider{
-            width: 100%;
-            height: 30vh;
+            padding: 2vh 2vw;
+            .content{
+                display: none;
+            }
+            .content-hidden{
+                display: block;
+                width: 95%;
+                height: fit-content;
+            }
+            .slider{
+                margin: 0 auto;
+                width: 90%;
+                height: 30vh;
+            }
         }
     }
 }
