@@ -94,3 +94,144 @@
           </div>
         </div>
         <hr />
+
+
+
+
+        import '../assets/scss/themes.scss'
+import oceans1 from '../assets/images/hotter temperatures and rising oceans.jpg'
+import oceans2 from '../assets/images/hotter temperatures and rising oceans pic3.jpg'
+const Themes = () => {
+  return (
+    <div className="themes-page">
+      <div className="main">
+
+        <div className="hex1">
+          <img className="clip" src={oceans1}/>
+        </div>
+        <div className="hex2">
+          <img className="clip" src={oceans1}/>
+        </div>
+        <div className="hex3">
+          <img className="clip" src={oceans2}/>
+        </div>
+        <div className="hex4">
+          <img className="clip" src={oceans2}/>
+        </div>
+        <div className="hex5">
+          <img className="clip" src={oceans2}/>
+        </div>
+        {/* <div className="hex6">
+          <img className="clip" src={oceans2}/>
+        </div>
+        <div className="hex7">
+          <img className="clip" src={oceans2}/>
+        </div>
+        <div className="hex8">
+          <img className="clip" src={oceans1}/>
+        </div> */}
+
+      </div>
+    </div>
+  )
+}
+
+export default Themes
+
+
+.themes-page{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    .main{
+        display: grid;
+        grid-column-gap: 2.3vw;
+        grid-row-gap: 7vw;
+        grid-template-columns: repeat(5, 7vw);
+        grid-auto-rows: 7vw;
+        grid-template-areas: "g1 . g2 . g3" "g4 . g5. g6" "g7 . g8";
+        justify-content: space-evenly;
+        
+        
+        // .clip:hover{
+        //     z-index: 1;
+        //     transform: scale(3.0);
+        //     box-shadow: 500px 500px 500px 500px #000;
+        // }
+        
+        
+        .hex1{
+            grid-area: g1;
+            .clip{
+                position: relative;
+                background-color: #ccc;
+                width: 100%;
+                height: 100%;
+                clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+                transform: scale(2.5);
+                transition: 0.3s;
+            }
+        }
+        .hex2{
+            grid-area: g2;
+            .clip{
+                position: relative;
+                background-color: #ccc;
+                width: 100%;
+                height: 100%;
+                clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+                transform: scale(2.5);
+                transition: 0.3s;
+            }
+        }
+        .hex3{
+            grid-area: g3;
+            .clip{
+                position: relative;
+                background-color: #ccc;
+                width: 100%;
+                height: 100%;
+                clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+                transform: scale(2.5);
+                transition: 0.3s;
+            }
+        }
+        .hex4{
+            grid-area: g4;
+            .clip{
+                position: relative;
+                background-color: #ccc;
+                width: 100%;
+                height: 100%;
+                clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+                transform: scale(2.5);
+                transition: 0.3s;
+            }
+        }
+        .hex5{
+            grid-area: g5;
+            .clip{
+                position: relative;
+                background-color: #ccc;
+                width: 100%;
+                height: 100%;
+                clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+                transform: scale(2.5);
+                transition: 0.3s;
+            }
+        }
+        // .hex6{
+        //     grid-area: g6;
+        // }
+        // .hex7{
+        //     grid-area: g7;
+        // }
+        // .hex8{
+        //     grid-area: g8;
+        // }
+        
+    }
+}
