@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/soulboosters/static/css/main.e5fb6ec9.css",
-    "main.js": "/soulboosters/static/js/main.6d98a2cd.js",
+    "main.css": "/soulboosters/static/css/main.6fba7623.css",
+    "main.js": "/soulboosters/static/js/main.280732bb.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
+    "static/media/kenya.svg": "/soulboosters/static/media/kenya.94c4c29efaa800adabd854490fd04ea7.svg",
     "static/media/notebook.jpg": "/soulboosters/static/media/notebook.909a4c17697c449ac264.jpg",
     "static/media/africa.jpg": "/soulboosters/static/media/africa.594fd0f21ef88e721c93.jpg",
     "static/media/chess.jpg": "/soulboosters/static/media/chess.c14748328fcd91506d5a.jpg",
@@ -23,12 +24,12 @@
     "index.html": "/soulboosters/index.html",
     "static/media/envelope-regular.svg": "/soulboosters/static/media/envelope-regular.93e70155ef4a52027277ea9ca2458ffe.svg",
     "static/media/facebook.svg": "/soulboosters/static/media/facebook.ea8ac127921cd3c467ef76da847b60c1.svg",
-    "main.e5fb6ec9.css.map": "/soulboosters/static/css/main.e5fb6ec9.css.map",
-    "main.6d98a2cd.js.map": "/soulboosters/static/js/main.6d98a2cd.js.map",
+    "main.6fba7623.css.map": "/soulboosters/static/css/main.6fba7623.css.map",
+    "main.280732bb.js.map": "/soulboosters/static/js/main.280732bb.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5fb6ec9.css",
-    "static/js/main.6d98a2cd.js"
+    "static/css/main.6fba7623.css",
+    "static/js/main.280732bb.js"
   ]
 }
