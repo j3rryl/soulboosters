@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/soulboosters/static/css/main.12213963.css",
+    "main.css": "/soulboosters/static/css/main.e5fb6ec9.css",
     "main.js": "/soulboosters/static/js/main.6d98a2cd.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
     "static/media/notebook.jpg": "/soulboosters/static/media/notebook.909a4c17697c449ac264.jpg",
@@ -23,12 +23,12 @@
     "index.html": "/soulboosters/index.html",
     "static/media/envelope-regular.svg": "/soulboosters/static/media/envelope-regular.93e70155ef4a52027277ea9ca2458ffe.svg",
     "static/media/facebook.svg": "/soulboosters/static/media/facebook.ea8ac127921cd3c467ef76da847b60c1.svg",
-    "main.12213963.css.map": "/soulboosters/static/css/main.12213963.css.map",
+    "main.e5fb6ec9.css.map": "/soulboosters/static/css/main.e5fb6ec9.css.map",
     "main.6d98a2cd.js.map": "/soulboosters/static/js/main.6d98a2cd.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12213963.css",
+    "static/css/main.e5fb6ec9.css",
     "static/js/main.6d98a2cd.js"
   ]
 }
