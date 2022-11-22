@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/soulboosters/static/css/main.6ffe7746.css",
-    "main.js": "/soulboosters/static/js/main.4045f598.js",
+    "main.css": "/soulboosters/static/css/main.e83c10cf.css",
+    "main.js": "/soulboosters/static/js/main.e2b534a3.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
     "static/media/notebook.jpg": "/soulboosters/static/media/notebook.909a4c17697c449ac264.jpg",
     "static/media/africa.jpg": "/soulboosters/static/media/africa.594fd0f21ef88e721c93.jpg",
@@ -17,13 +17,18 @@
     "static/media/loss of plants and animals.jpg": "/soulboosters/static/media/loss of plants and animals.ec34f87794ee0cca638b.jpg",
     "static/media/hotter temperatures and rising oceans pic2.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans pic2.a951907ad9ee6afbc82a.jpg",
     "static/media/hotter temperatures and rising oceans.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans.9800182062621a1b4346.jpg",
+    "static/media/instagram.svg": "/soulboosters/static/media/instagram.09997ab2a7f10b6b2fd57c0aa1221769.svg",
+    "static/media/whatsapp.svg": "/soulboosters/static/media/whatsapp.dc7bec9655f8337ab447e2b510dccd65.svg",
+    "static/media/twitter.svg": "/soulboosters/static/media/twitter.24c8d8ff09e046b90f30f4c5de8d610c.svg",
     "index.html": "/soulboosters/index.html",
-    "main.6ffe7746.css.map": "/soulboosters/static/css/main.6ffe7746.css.map",
-    "main.4045f598.js.map": "/soulboosters/static/js/main.4045f598.js.map",
+    "static/media/envelope-regular.svg": "/soulboosters/static/media/envelope-regular.93e70155ef4a52027277ea9ca2458ffe.svg",
+    "static/media/facebook.svg": "/soulboosters/static/media/facebook.ea8ac127921cd3c467ef76da847b60c1.svg",
+    "main.e83c10cf.css.map": "/soulboosters/static/css/main.e83c10cf.css.map",
+    "main.e2b534a3.js.map": "/soulboosters/static/js/main.e2b534a3.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ffe7746.css",
-    "static/js/main.4045f598.js"
+    "static/css/main.e83c10cf.css",
+    "static/js/main.e2b534a3.js"
   ]
 }
