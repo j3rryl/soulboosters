@@ -1,8 +1,13 @@
-import React from 'react'
+import '../../assets/scss/stories.scss'
+import kenya from '../../assets/icons/kenya.svg'
 
 const Stories = () => {
   return (
-    <div>Stories</div>
+    <div className='stories-page'>
+      <div className='map-container'>
+        <img className='kenya-map' src={kenya}/>
+      </div>
+    </div>
   )
 }
 

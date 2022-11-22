@@ -14,36 +14,36 @@ const Themes = () => {
   return (
     <div className="themes-page">
       
-<ul class="honeycomb">
-    <li class="honeycomb-cell">
-        <img class="honeycomb-cell_img" src={food}/>
-        <div class="honeycomb-cell_title">Less than Enough Food</div>
+<ul className="honeycomb">
+    <li className="honeycomb-cell">
+        <img className="honeycomb-cell_img" src={food}/>
+        <div className="honeycomb-cell_title">Less than Enough Food</div>
     </li>
-    <li class="honeycomb-cell">
-        <img class="honeycomb-cell_img" src={drought}/>
-        <div class="honeycomb-cell_title">Increased Droughts</div>
+    <li className="honeycomb-cell">
+        <img className="honeycomb-cell_img" src={drought}/>
+        <div className="honeycomb-cell_title">Increased Droughts</div>
     </li>
-    <li class="honeycomb-cell">
-        <img class="honeycomb-cell_img" src={plants}/>
-        <div class="honeycomb-cell_title">Loss of plants and animals</div>
+    <li className="honeycomb-cell">
+        <img className="honeycomb-cell_img" src={plants}/>
+        <div className="honeycomb-cell_title">Loss of plants and animals</div>
     </li>
-    <li class="honeycomb-cell">
-        <img class="honeycomb-cell_img" src={poverty}/>
-        <div class="honeycomb-cell_title">Povert & displacement</div>
+    <li className="honeycomb-cell">
+        <img className="honeycomb-cell_img" src={poverty}/>
+        <div className="honeycomb-cell_title">Povert & displacement</div>
     </li>
-    <li class="honeycomb-cell">
-        <img class="honeycomb-cell_img" src={oceans1}/>
-        <div class="honeycomb-cell_title">Hotter Temperatures</div>
+    <li className="honeycomb-cell">
+        <img className="honeycomb-cell_img" src={oceans1}/>
+        <div className="honeycomb-cell_title">Hotter Temperatures</div>
     </li>
-    <li class="honeycomb-cell">
-        <img class="honeycomb-cell_img" src={oceans2}/>
-        <div class="honeycomb-cell_title">Rising Oceans</div>
+    <li className="honeycomb-cell">
+        <img className="honeycomb-cell_img" src={oceans2}/>
+        <div className="honeycomb-cell_title">Rising Oceans</div>
     </li>
-    <li class="honeycomb-cell">
-        <img class="honeycomb-cell_img" src={risks}/>
-        <div class="honeycomb-cell_title">More Health risks</div>
+    <li className="honeycomb-cell">
+        <img className="honeycomb-cell_img" src={risks}/>
+        <div className="honeycomb-cell_title">More Health risks</div>
     </li>
-    <li class="honeycomb-cell honeycomb_Hidden">
+    <li className="honeycomb-cell honeycomb_Hidden">
     </li>
 </ul>
 
