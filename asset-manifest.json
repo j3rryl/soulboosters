@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/soulboosters/static/css/main.e83c10cf.css",
+    "main.css": "/soulboosters/static/css/main.fa4f581a.css",
     "main.js": "/soulboosters/static/js/main.e2b534a3.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
     "static/media/notebook.jpg": "/soulboosters/static/media/notebook.909a4c17697c449ac264.jpg",
@@ -23,12 +23,12 @@
     "index.html": "/soulboosters/index.html",
     "static/media/envelope-regular.svg": "/soulboosters/static/media/envelope-regular.93e70155ef4a52027277ea9ca2458ffe.svg",
     "static/media/facebook.svg": "/soulboosters/static/media/facebook.ea8ac127921cd3c467ef76da847b60c1.svg",
-    "main.e83c10cf.css.map": "/soulboosters/static/css/main.e83c10cf.css.map",
+    "main.fa4f581a.css.map": "/soulboosters/static/css/main.fa4f581a.css.map",
     "main.e2b534a3.js.map": "/soulboosters/static/js/main.e2b534a3.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e83c10cf.css",
+    "static/css/main.fa4f581a.css",
     "static/js/main.e2b534a3.js"
   ]
 }
