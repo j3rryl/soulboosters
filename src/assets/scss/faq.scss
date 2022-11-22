@@ -3,7 +3,7 @@
     width: 100%;
     .faq-card{
     margin: auto;
-    width: 70vw;
+    width: 50vw;
     height: fit-content;
     padding: 2vh 0; 
     background-color: #fff;
@@ -11,7 +11,7 @@
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     .faq{
         cursor: pointer;
-        padding: 0 5vw;
+        padding: 1vh 5vw;
         .question{
             display: flex;
             justify-content: space-between;
@@ -35,6 +35,7 @@
     hr{
         width: 90%;
         background-color: black;
+        margin-bottom: 1vh;
     }
     .faq.active .answer{
         max-height: 15vh;
