@@ -1,0 +1,89 @@
+.about-page{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    .container{
+        height: 100%;
+        width: 100%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        position: relative;
+        background-position: center;
+        background-size: cover;
+        min-height: 100%;
+        h5{
+            position: absolute;
+            top: 30%;
+            right: 35vw;
+            width: fit-content;
+            background-color: white;
+            border-radius: 14px;
+            color:#3EADCF;
+            font-size: 2rem;
+            padding: 3vh 5vw;
+            text-transform: capitalize;
+            letter-spacing: 0.2em;
+        }
+    }
+    .dark-themed{
+        background-color: black;
+        color: wheat;
+        text-align: justify;
+        text-align:center;
+        justify-content: center;
+        align-items:center;
+        padding: 30px;
+        h5{
+            text-align: center;
+            font-size: 2vw;
+            padding:0;
+            text-transform: uppercase;
+            letter-spacing: 0.5em;
+        }
+        p{
+            text-align: center;
+            font-size: 0.9rem;
+            padding: 10px;
+            letter-spacing: 0.3em;
+        }
+    }
+    .light-themed{
+        background-color: white;
+        border-radius: 14px;
+        color: black;
+        text-align: justify;
+        text-align:center;
+        justify-content: center;
+        align-items:center;
+        padding: 30px;
+        h5{
+            text-align: center;
+            font-size: 2vw;
+            padding:0;
+            text-transform: uppercase;
+            letter-spacing: 0.5em;
+        }
+        p{
+            text-align: center;
+            font-size: 0.9rem;
+            padding: 10px;
+            letter-spacing: 0.3em;
+        }
+    }
+    .our-story{
+        position: relative;
+        background-image: url('../images/notebook.jpg');
+    }
+    .our-strategy{
+        position: relative;
+        background-image: url('../images/chess.jpg');
+    }
+    .our-people{
+        position: relative;
+        background-image: url('../images/africa.jpg');
+    }
+    .our-partners{
+        position: relative;
+        background-image: url('../images/partners.jpg');
+    }
+}

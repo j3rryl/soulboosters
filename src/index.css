@@ -5,7 +5,12 @@ body {
   height: 100vh;
   overflow-x: hidden;
   background-color:#EEEEEE;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
   /* font-family: 'Caveat', cursive;
   font-size: 1.3rem; */
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+::-webkit-scrollbar {
+  display:none;
 }
