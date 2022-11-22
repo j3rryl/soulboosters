@@ -34,7 +34,7 @@ useEffect(()=>{
     <nav className="navbar-links">
       <ul className="list-links">
         <li>
-          <NavLink to='themes'>Themes</NavLink>
+          <NavLink to='themes'>Themes Of Climate Change</NavLink>
         </li>
         <li>
           <NavLink to='involve'>Get Involved</NavLink>
