@@ -1,0 +1,25 @@
+.involve-page{
+    width: 100%;
+    height: 100%;
+    .involve-card{
+        margin: auto;
+        padding: 5vh 3vw;
+        width: 60vw;
+        height: fit-content;
+        background-color: #fff;
+        box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+        border-radius: 14px;
+        span{
+            text-align: center;
+            .social-media{
+                margin: 5vh 0;
+                padding: 0 3vw;
+                .media-icon{
+                    margin: 0 1vw;
+                    width: 5vw;
+                    height: 5vh;
+                }
+            }
+        }
+    }
+}
