@@ -6,6 +6,7 @@ import Themes from "./pages/Themes";
 import Stories from "./pages/Stories/Stories";
 import Involve from "./pages/Involve";
 import Faq from "./pages/Faq";
+import Kenya from "./components/Kenya";
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <Navbar/>
     <Routes>
       <Route element={<Home/>} path='/'/>
+      <Route element={<Kenya/>} path='/kenya'/>
       <Route element={<About/>} path='/about'/>
       <Route element={<Themes/>} path='/themes'/>
       <Route element={<Stories/>} path='/stories'/>

@@ -1,11 +1,11 @@
 import '../../assets/scss/stories.scss'
-import kenya from '../../assets/icons/kenya.svg'
+import Kenya from '../../components/Kenya'
 
 const Stories = () => {
   return (
     <div className='stories-page'>
       <div className='map-container'>
-        <img className='kenya-map' src={kenya}/>
+        <Kenya/>
       </div>
     </div>
   )
