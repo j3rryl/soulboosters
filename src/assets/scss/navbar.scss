@@ -19,6 +19,7 @@
   .header h3{
     background: linear-gradient( to right,#647DEE 0%, #7F53AC 100%);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bolder;
   }
@@ -40,6 +41,7 @@
   .list-links li a.active{
     background: linear-gradient(#647DEE, #2A2A72);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
   }
   .list-links li a:hover{

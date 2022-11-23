@@ -9,7 +9,7 @@ const Kenya = () => {
       fetch(KenyaMap)
           .then(res => res.text())
           .then(svgText => setSvgText(svgText))
-  }, []);
+  }, [svgText]);
   function toggleCounty(event){
     const county_name= event.target.getAttribute('id')
     if(county_name==="KE-21"){

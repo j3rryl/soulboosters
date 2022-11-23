@@ -34,16 +34,16 @@ export default function CubeSlider({images, timer}) {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src={images[0]} />
+          <img src={images[0]} alt="Pics for counties."/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={images[1]}/>
+          <img src={images[1]} alt="Pics for counties."/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={images[2]} />
+          <img src={images[2]} alt="Pics for counties."/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={images[3]}/>
+          <img src={images[3]} alt="Pics for counties."/>
         </SwiperSlide>
       </Swiper>
     </>

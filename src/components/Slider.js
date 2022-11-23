@@ -3,16 +3,9 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 //Import images
 import woman from '../assets/images/page1-woman pic.png'
-import poverty from '../assets/images/poverty and displacement.jpg'
-import food from '../assets/images/not enough food.jpg'
-import risks from '../assets/images/more healthrisks.jpg'
-import plants from '../assets/images/loss of plants and animals.jpg'
-import lamustory from '../assets/images/lamustory.jpg'
-import lamupic from '../assets/images/lamupic.jpg'
 import drought from '../assets/images/increased droughts.jpg'
 import oceans1 from '../assets/images/hotter temperatures and rising oceans.jpg'
 import oceans2 from '../assets/images/hotter temperatures and rising oceans pic3.jpg'
-import oceans3 from '../assets/images/hotter temperatures and rising oceans pic2.jpg'
 
 
 
@@ -46,16 +39,16 @@ export default function Slider() {
         className="mySwiper"
       >
          <SwiperSlide>
-          <img src={woman} />
+          <img src={woman} alt="Pics for homepage."/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={oceans1} />
+          <img src={oceans1} alt="Pics for homepage." />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={oceans2} />
+          <img src={oceans2} alt="Pics for homepage."/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={drought} />
+          <img src={drought} alt="Pics for homepage."/>
         </SwiperSlide>
       </Swiper>
     </>
