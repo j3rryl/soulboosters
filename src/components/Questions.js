@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-const Questions = ({question}) => {
+const Questions = ({question,answer}) => {
 
   const [faq,setFaq]=useState(
     false)
@@ -21,10 +21,7 @@ const Questions = ({question}) => {
             </svg>
           </div>
           <div className='answer'>
-            <p>
-              Culpa qui laborum elit reprehenderit esse deserunt minim. Velit nulla sunt do voluptate id. 
-              Lorem dolor deserunt eiusmod sint culpa ex ullamco exercitation fugiat veniam. Occaecat sunt cupidatat labore enim cupidatat sunt labore quis do cillum veniam.
-            </p>
+            <p>{answer}</p>
           </div>
         </div>
         <hr />
