@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/soulboosters/static/css/main.232ffcef.css",
-    "main.js": "/soulboosters/static/js/main.bb3887d7.js",
+    "main.css": "/soulboosters/static/css/main.3ce3b62d.css",
+    "main.js": "/soulboosters/static/js/main.a5b4a0f8.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
     "static/media/notebook.jpg": "/soulboosters/static/media/notebook.909a4c17697c449ac264.jpg",
     "static/media/africa.jpg": "/soulboosters/static/media/africa.594fd0f21ef88e721c93.jpg",
@@ -24,12 +24,12 @@
     "index.html": "/soulboosters/index.html",
     "static/media/envelope-regular.svg": "/soulboosters/static/media/envelope-regular.93e70155ef4a52027277ea9ca2458ffe.svg",
     "static/media/facebook.svg": "/soulboosters/static/media/facebook.ea8ac127921cd3c467ef76da847b60c1.svg",
-    "main.232ffcef.css.map": "/soulboosters/static/css/main.232ffcef.css.map",
-    "main.bb3887d7.js.map": "/soulboosters/static/js/main.bb3887d7.js.map",
+    "main.3ce3b62d.css.map": "/soulboosters/static/css/main.3ce3b62d.css.map",
+    "main.a5b4a0f8.js.map": "/soulboosters/static/js/main.a5b4a0f8.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.232ffcef.css",
-    "static/js/main.bb3887d7.js"
+    "static/css/main.3ce3b62d.css",
+    "static/js/main.a5b4a0f8.js"
   ]
 }
