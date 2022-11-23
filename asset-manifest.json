@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/soulboosters/static/css/main.4f9d73c6.css",
-    "main.js": "/soulboosters/static/js/main.23d316ae.js",
+    "main.css": "/soulboosters/static/css/main.40bcab70.css",
+    "main.js": "/soulboosters/static/js/main.ea986888.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
     "static/media/notebook.jpg": "/soulboosters/static/media/notebook.909a4c17697c449ac264.jpg",
     "static/media/africa.jpg": "/soulboosters/static/media/africa.594fd0f21ef88e721c93.jpg",
@@ -14,6 +14,7 @@
     "static/media/increased droughts.jpg": "/soulboosters/static/media/increased droughts.62de6ecbfdb5d103a144.jpg",
     "static/media/poverty and displacement.jpg": "/soulboosters/static/media/poverty and displacement.5a400c7a599e64ef36ee.jpg",
     "static/media/more healthrisks.jpg": "/soulboosters/static/media/more healthrisks.e9feea0feb739358e3ea.jpg",
+    "static/media/slogo.png": "/soulboosters/static/media/slogo.e654f3c1b7143c76d80f.png",
     "static/media/hotter temperatures and rising oceans pic3.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans pic3.4c9b25a1b40ea27b5a86.jpg",
     "static/media/loss of plants and animals.jpg": "/soulboosters/static/media/loss of plants and animals.ec34f87794ee0cca638b.jpg",
     "static/media/hotter temperatures and rising oceans pic2.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans pic2.a951907ad9ee6afbc82a.jpg",
@@ -24,12 +25,12 @@
     "index.html": "/soulboosters/index.html",
     "static/media/envelope-regular.svg": "/soulboosters/static/media/envelope-regular.93e70155ef4a52027277ea9ca2458ffe.svg",
     "static/media/facebook.svg": "/soulboosters/static/media/facebook.ea8ac127921cd3c467ef76da847b60c1.svg",
-    "main.4f9d73c6.css.map": "/soulboosters/static/css/main.4f9d73c6.css.map",
-    "main.23d316ae.js.map": "/soulboosters/static/js/main.23d316ae.js.map",
+    "main.40bcab70.css.map": "/soulboosters/static/css/main.40bcab70.css.map",
+    "main.ea986888.js.map": "/soulboosters/static/js/main.ea986888.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f9d73c6.css",
-    "static/js/main.23d316ae.js"
+    "static/css/main.40bcab70.css",
+    "static/js/main.ea986888.js"
   ]
 }
