@@ -9,7 +9,7 @@ const Lamu = () => {
         <h3>Lamu</h3>
       </div>
       <div className='county-card'>
-        <p><span></span>Trending</p>
+        <p><span>.</span>Trending</p>
         <div className='cube-sliders'>
         <CubePage/>
         </div>
