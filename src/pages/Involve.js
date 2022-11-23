@@ -16,7 +16,7 @@ const Involve = () => {
       <div className='involve-card'>
         <span>
           <p>
-            Do you want to fund an inniovating problem-solving woman?
+            Do you want to fund an innovating problem-solving woman?
           </p>
           <FundMe />
           <p>Do you know of a problem-solving woman in your locality?</p>
