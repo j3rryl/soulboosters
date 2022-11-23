@@ -16,12 +16,23 @@
     display: none;
     color: #3EADCF;
   }
+  .logo-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .slogo{
+    width: 4vw;
+    height: 4vw;
+    border-radius: 99px;
+  }
   .header h3{
     background: linear-gradient( to right,#647DEE 0%, #7F53AC 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bolder;
+    margin-right: 2vw;
   }
   
   .list-links li{

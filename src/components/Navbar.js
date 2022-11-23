@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars, faX } from '@fortawesome/free-solid-svg-icons'
 import { useEffect, useState } from "react"
 import '../assets/scss/navbar.scss'
+import Slogo from '../assets/icons/slogo.png'
 const Navbar = () => {
 const [mobile,setMobile]=useState(
   false)
@@ -17,7 +18,10 @@ useEffect(()=>{
     <>
     <header className={`header ${mobile?'mobile':''}`}>
     <FontAwesomeIcon icon={mobile?faX:faBars} className="icon-logo" onClick={toggleMenu}/>
-        <h3>Soul Boosters</h3>
+    <nav className="logo-title">
+      <h3>Soul Boosters</h3>
+      <img className='slogo' src={Slogo} alt="Icon logo for soul boosters"/>
+    </nav>
     <nav className="navbar-links">
         <ul className="list-links">
             <li>
