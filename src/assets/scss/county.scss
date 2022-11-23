@@ -1,0 +1,69 @@
+.county-page{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    .title-card{
+        margin: 0 auto;
+        width: fit-content;
+        height: fit-content;
+        padding: 1vh 5vw;
+        background-color: #fff;
+        margin-bottom: 5vh;
+        border-radius: 14px;
+        text-align: center;
+        box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+        h3{
+            font-size: 1.5rem;
+        background: linear-gradient( to right,#647DEE 0%, #7F53AC 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: bolder;
+        
+        }
+    }
+    .county-card{
+        margin: 0 auto;
+        width: 70%;
+        height: fit-content;
+        background-color: #fff;
+        border-radius: 14px;
+        padding: 5vh 5vw;
+        box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+        p{
+            font-size: 1.4rem;
+            font-weight: bold;
+            margin-bottom: 5vh;
+            letter-spacing: .2rem;
+            height: fit-content;
+            width: fit-content;
+            span{
+                display: inline-block;
+                border: 1px solid #ffffff00;
+                width: .6vw;
+                height: 1.8vh;
+                background: linear-gradient( to right,#647DEE 0%, #7F53AC 100%);
+                margin-right: 1vw;
+            }
+        }
+        .cube-sliders{
+            margin: 5vh;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        .content{
+            margin-top: 10vh;
+            h3{
+                text-transform: capitalize;
+            }
+            hr{
+                width: 50%;
+                margin: 0;
+            }
+            p{
+                font-weight: 100;
+                font-size: 1rem;
+            }
+        }
+    }
+}

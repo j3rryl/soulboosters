@@ -1,0 +1,19 @@
+.mySwiper{
+    border-radius: 14px;
+    overflow: hidden;
+}
+.swiper {
+    width: 15vw;
+    height: 30vh;
+    position: relative;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+  }
