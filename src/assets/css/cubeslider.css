@@ -12,6 +12,9 @@
     background-position: center;
     background-size: cover;
   }
+  .swiper-slide:hover{
+    cursor: pointer;
+  }
   
   .swiper-slide img {
     display: block;
