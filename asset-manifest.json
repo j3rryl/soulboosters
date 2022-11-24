@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/soulboosters/static/css/main.40bcab70.css",
-    "main.js": "/soulboosters/static/js/main.ea986888.js",
+    "main.css": "/soulboosters/static/css/main.906600f2.css",
+    "main.js": "/soulboosters/static/js/main.0eff3d80.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
     "static/media/notebook.jpg": "/soulboosters/static/media/notebook.909a4c17697c449ac264.jpg",
     "static/media/africa.jpg": "/soulboosters/static/media/africa.594fd0f21ef88e721c93.jpg",
     "static/media/chess.jpg": "/soulboosters/static/media/chess.c14748328fcd91506d5a.jpg",
+    "static/media/lamu trainee and Mary.jpg": "/soulboosters/static/media/lamu trainee and Mary.27a760899abfb8f9deaf.jpg",
     "static/media/page1-woman pic.png": "/soulboosters/static/media/page1-woman pic.11bf003f22963daa6b6e.png",
     "static/media/kenya.svg": "/soulboosters/static/media/kenya.e675b40027e19c5f4dd2a20b429d0bc1.svg",
     "static/media/partners.jpg": "/soulboosters/static/media/partners.ca8fe6ef85b07abe17f0.jpg",
@@ -25,12 +26,12 @@
     "index.html": "/soulboosters/index.html",
     "static/media/envelope-regular.svg": "/soulboosters/static/media/envelope-regular.93e70155ef4a52027277ea9ca2458ffe.svg",
     "static/media/facebook.svg": "/soulboosters/static/media/facebook.ea8ac127921cd3c467ef76da847b60c1.svg",
-    "main.40bcab70.css.map": "/soulboosters/static/css/main.40bcab70.css.map",
-    "main.ea986888.js.map": "/soulboosters/static/js/main.ea986888.js.map",
+    "main.906600f2.css.map": "/soulboosters/static/css/main.906600f2.css.map",
+    "main.0eff3d80.js.map": "/soulboosters/static/js/main.0eff3d80.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40bcab70.css",
-    "static/js/main.ea986888.js"
+    "static/css/main.906600f2.css",
+    "static/js/main.0eff3d80.js"
   ]
 }
