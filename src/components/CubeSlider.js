@@ -25,25 +25,11 @@ export default function CubeSlider({images, timer}) {
           shadowOffset: 20,
           shadowScale: 0.94,
         }}
-        autoplay={{
-          delay: timer,
-          disableOnInteraction: false,
-      }}
-        loop={true}
         modules={[EffectCube, Autoplay]}
         className="mySwiper"
       >
         <SwiperSlide>
           <img src={images[0]} alt="Pics for counties."/>
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={images[1]} alt="Pics for counties."/>
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={images[2]} alt="Pics for counties."/>
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={images[3]} alt="Pics for counties."/>
         </SwiperSlide>
       </Swiper>
     </>
