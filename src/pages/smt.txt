@@ -223,6 +223,7 @@ export default Themes
                 transition: 0.3s;
             }
         }
+        mm
         // .hex6{
         //     grid-area: g6;
         // }
