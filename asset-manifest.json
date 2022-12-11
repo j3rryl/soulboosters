@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/soulboosters/static/css/main.906600f2.css",
-    "main.js": "/soulboosters/static/js/main.0eff3d80.js",
+    "main.js": "/soulboosters/static/js/main.9237f87f.js",
     "static/js/787.ffdc9ac7.chunk.js": "/soulboosters/static/js/787.ffdc9ac7.chunk.js",
     "static/media/notebook.jpg": "/soulboosters/static/media/notebook.909a4c17697c449ac264.jpg",
     "static/media/africa.jpg": "/soulboosters/static/media/africa.594fd0f21ef88e721c93.jpg",
     "static/media/chess.jpg": "/soulboosters/static/media/chess.c14748328fcd91506d5a.jpg",
     "static/media/lamu trainee and Mary.jpg": "/soulboosters/static/media/lamu trainee and Mary.27a760899abfb8f9deaf.jpg",
     "static/media/page1-woman pic.png": "/soulboosters/static/media/page1-woman pic.11bf003f22963daa6b6e.png",
+    "static/media/Meeting farmer needs.png": "/soulboosters/static/media/Meeting farmer needs.9c456a10d0816257efcc.png",
+    "static/media/Reducing risks.png": "/soulboosters/static/media/Reducing risks.d7c18af2463349b82963.png",
+    "static/media/Increasing security.png": "/soulboosters/static/media/Increasing security.ab571c1ba4e3739b8889.png",
     "static/media/kenya.svg": "/soulboosters/static/media/kenya.e675b40027e19c5f4dd2a20b429d0bc1.svg",
     "static/media/partners.jpg": "/soulboosters/static/media/partners.ca8fe6ef85b07abe17f0.jpg",
     "static/media/lamupic.jpg": "/soulboosters/static/media/lamupic.8a6c7db3adb7788cb04b.jpg",
     "static/media/lamustory.jpg": "/soulboosters/static/media/lamustory.61c834c02960f5600a5e.jpg",
+    "static/media/Increasing governance.png": "/soulboosters/static/media/Increasing governance.5c7c566850c96fbdd666.png",
+    "static/media/Unlocking climate finance.png": "/soulboosters/static/media/Unlocking climate finance.bf2aaac53562e105ea4e.png",
     "static/media/increased droughts.jpg": "/soulboosters/static/media/increased droughts.62de6ecbfdb5d103a144.jpg",
     "static/media/poverty and displacement.jpg": "/soulboosters/static/media/poverty and displacement.5a400c7a599e64ef36ee.jpg",
-    "static/media/more healthrisks.jpg": "/soulboosters/static/media/more healthrisks.e9feea0feb739358e3ea.jpg",
+    "static/media/Developing pathways.png": "/soulboosters/static/media/Developing pathways.f30d02d9260202283e15.png",
     "static/media/slogo.png": "/soulboosters/static/media/slogo.e654f3c1b7143c76d80f.png",
     "static/media/hotter temperatures and rising oceans pic3.jpg": "/soulboosters/static/media/hotter temperatures and rising oceans pic3.4c9b25a1b40ea27b5a86.jpg",
     "static/media/loss of plants and animals.jpg": "/soulboosters/static/media/loss of plants and animals.ec34f87794ee0cca638b.jpg",
@@ -27,11 +32,11 @@
     "static/media/envelope-regular.svg": "/soulboosters/static/media/envelope-regular.93e70155ef4a52027277ea9ca2458ffe.svg",
     "static/media/facebook.svg": "/soulboosters/static/media/facebook.ea8ac127921cd3c467ef76da847b60c1.svg",
     "main.906600f2.css.map": "/soulboosters/static/css/main.906600f2.css.map",
-    "main.0eff3d80.js.map": "/soulboosters/static/js/main.0eff3d80.js.map",
+    "main.9237f87f.js.map": "/soulboosters/static/js/main.9237f87f.js.map",
     "787.ffdc9ac7.chunk.js.map": "/soulboosters/static/js/787.ffdc9ac7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.906600f2.css",
-    "static/js/main.0eff3d80.js"
+    "static/js/main.9237f87f.js"
   ]
 }
